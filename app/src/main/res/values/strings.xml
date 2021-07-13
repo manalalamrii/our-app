@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">المرشد</string>
+    <string name="title_activity_maps">الخريطة</string>
+    <string name="normal_map">خريطة عادية</string>
+    <string name="hybrid_map">خريطة مزدوجة</string>
+    <string name="satellite_map">القمر الصناعي</string>
+    <string name="terrain_map">خريطة التضاريس</string>
+    <string name="المرشد">المرشد</string>
+</resources>
